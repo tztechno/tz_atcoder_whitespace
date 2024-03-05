@@ -4,5 +4,6 @@ whitespacers1.0.0
 
 .ws
 
-space:[ ]
-tab:[	]
+space:[ ] utf-8 20
+
+tab:[	] utf-8 09
