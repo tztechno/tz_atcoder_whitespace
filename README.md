@@ -4,5 +4,5 @@ whitespacers1.0.0
 
 .ws
 
-s:[ ]
-t:[	]
+space:[ ]
+tab:[	]
