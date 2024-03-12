@@ -18,6 +18,7 @@ https://www.dcode.fr/whitespace-language
 ------------------------------------------------
 ------------------------------------------------
 ################################################
+"PracticeA - Welcome to AtCoder"
 a=int(input())
 b,c=map(int,input().split())
 s=str(input())
