@@ -6,10 +6,12 @@ Nostochetum
 
 .ws
 
-space:[ ] utf-8 20<br/>
-tabキーで得られるもの：(utf-8 20)*４
+SP:[ ] utf-8 20
 
-tab:[	] utf-8 09
+HT:[	] utf-8 09 制,HT
+
+LF:[
+]　　utf-8 0A 制,LF
 
 https://vii5ard.github.io/whitespace/
 
